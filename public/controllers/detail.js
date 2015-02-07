@@ -25,5 +25,6 @@ angular.module('MyApp')
         $scope.nextEpisode = show.episodes.filter(function(episode) {
           return new Date(episode.firstAired) > new Date();
         })[0];
+        console.log(nextEpisode);
       });
     }]);
