@@ -59,7 +59,7 @@ agenda.define('send email alert', function(job, done) {
     });
 
     var mailOptions = {
-      from: 'Fred Foo ✔ <foo@blurdybloop.com>',
+      from: 'Hercules <hercules@hercules.com>',
       to: emails.join(','),
       subject: show.name + ' is starting soon!',
       text: show.name + ' starts in less than 2 hours on ' + show.network + '.\n\n' +
