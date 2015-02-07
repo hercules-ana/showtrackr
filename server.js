@@ -196,7 +196,7 @@ app.post('/api/shows', function(req, res, next) {
   //async waterfall to manage asynchronous operations
   async.waterfall([
     function(callback) {
-      request.get('http://thetvdb.com/api/GetSeries.php?seriesname=' + seriesName, function(error, response, bodyParser) {
+      request.get('http://thetvdb.com/api/GetSeries.php?seriesname=' + seriesName, function(error, response, body) {
         if (error) return next(error);
           parser.parseString(body, function(err, result) {
             if (!result.data.series) {
