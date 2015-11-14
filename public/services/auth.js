@@ -1,6 +1,6 @@
 angular.module('MyApp')
-  .factory('Auth', ['$http', '$location', '$rootScope', '$cookieStore', '$alert',
-    function($http, $location, $rootScope, $cookieStore, $alert) {
+  .factory('Auth', ['$http', '$location', '$alert', '$rootScope', '$cookieStore',
+    function($http, $location, $alert, $rootScope, $cookieStore) {
       $rootScope.currentUser = $cookieStore.get('user');
       $cookieStore.remove('user');
 

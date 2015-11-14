@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"J",
+				"JoinForm"
+			],
+			[
+				"Join",
+				"JoinAdmin"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"Gallery",
+				"GallerySchema"
+			],
+			[
+				"moo",
+				"mongoose"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/controllers/add.js",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Anastasiou/Development/Websites/showtrackr/public/controllers/detail.js",
+		"/Users/Anastasiou/Development/Websites/showtrackr/server.js",
+		"/Users/Anastasiou/Development/Websites/showtrackr/public/controllers/login.js",
+		"/Users/Anastasiou/Development/Websites/showtrackr/public/controllers/main.js",
+		"/Users/Anastasiou/Development/Websites/showtrackr/public/controllers/navbar.js",
+		"/Users/Anastasiou/Development/Websites/showtrackr/public/controllers/signup.js",
+		"/Users/Anastasiou/Development/Websites/showtrackr/public/directives/repeatPassword.js",
+		"/Users/Anastasiou/Development/Websites/showtrackr/public/services/auth.js",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/config.xml.erb",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/config.rb",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/js/_app.js.erb.coffee",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/views/venue_video.html.haml",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/www/js/bootstrap.js",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/www/js/analytics.js",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/plugins/org.transistorsoft.cordova.background-geolocation/example/www/js/index.js",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/platforms/ios/build/emulator/Bubblo.app/www/js/bootstrap.js",
+		"/Users/Anastasiou/Desktop/lwc/src/joins/forms.py",
+		"/Users/Anastasiou/Desktop/lwc/src/templates/home.html",
+		"/Users/Anastasiou/Desktop/lwc/src/templates/navbar.html",
+		"/Users/Anastasiou/Desktop/lwc/src/joins/views.py",
+		"/Users/Anastasiou/Desktop/lwc/src/lwc/settings.py",
+		"/Users/Anastasiou/Desktop/lwc/src/joins/admin.py",
+		"/Users/Anastasiou/Desktop/lwc/src/joins/models.py",
+		"/Users/Anastasiou/Desktop/lwc/src/joins/migrations/0002_auto__add_field_join_ip_address.py",
+		"/Users/Anastasiou/Desktop/lwc/src/templates/base.html",
+		"/Users/Anastasiou/Desktop/lwc/src/db.sqlite3",
+		"/Users/Anastasiou/Desktop/lwc/src/lwc/views.py",
+		"/Users/Anastasiou/Desktop/lwc/src/lwc/urls.py",
+		"/Users/Anastasiou/Desktop/lwc/src/lwc/__init__.py",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/index.html",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/views/booking-list.html",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/views/booking-create.html",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/views/users.html",
+		"/Users/Anastasiou/Development/Websites/Bubblo/web_api.git/app/controllers/venues_controller.rb",
+		"/Users/Anastasiou/Development/Websites/Bubblo/web_api.git/app/serializers/venue_serializer.rb",
+		"/Users/Anastasiou/Development/Websites/Bubblo/web_api.git/app/models/venue.rb",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/views/venue_ratings.html.haml",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/views/venue_view.html.haml",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/views/profile.html.haml",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/js/venue_video_record.html.haml",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/css/app.css.sass",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/js/controllers/_venueVideo.js.coffee",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/js/controllers/_venues.js.coffee",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/views/venue_scroller.haml",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/js/controllers/_venueRatings.js.erb.coffee",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/js/controllers/_voting.js.coffee",
+		"/Users/Anastasiou/Development/Websites/Bubblo/mobile.git/source/index.html.haml",
+		"/Users/Anastasiou/Downloads/business.html",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/js/_app.js.erb.coffee",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/views/venue_view.html.haml",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/views/settings.html.haml",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/js/controllers/_friends.js.erb.coffee",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/config/database.yml",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/js/bootstrap.js.erb.coffee",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/js/init.js.erb.coffee",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/.bowerrc",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/.gitignore",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/Bowerfile",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/Capfile",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/config.ru",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/Procfile",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/Rakefile",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/Gemfile",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_fonts.sass",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_lists.css.sass",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_helpers.sass",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_offline-js-custom.sass",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/app/controllers/venues_controller.rb",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_popup.css.sass",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_bootstrap-variables.scss",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_bootstrap-custom.scss",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_animations.sass",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/_angular.ratings.sass",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/bubbles-icons/Read Me.txt",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/views/home.html.haml",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/views/profile.html.haml",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/views/complete_oauth.html.haml",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/app/models/venue.rb",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/app/models/venue_manager.rb",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/app/models/venue_category.rb",
+		"/Users/Anastasiou/Desktop/Bubblo/web_api.git/app/models/user_venue.rb",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/config.xml.erb",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/rebuild.sh",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/config.rb",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/bubbles-icons/style.css",
+		"/Users/Anastasiou/Desktop/Bubblo/mobile.git/source/css/bubbles-icons/fonts/bubbles-icons.eot",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/source/css/app.css.sass",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/source/index.html.haml",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/config.rb",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/rebuild.sh",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/.cordova/config.json",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/source/js/controllers/_feedback.js.erb.coffee",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/source/config.xml.erb",
+		"/Users/Anastasiou/Development/Websites/Bubblo-Ira-Maxim/source/js/_app.js.erb.coffee",
+		"/Users/Anastasiou/Desktop/untitled folder/test.coffee",
+		"/Users/Anastasiou/Desktop/test.coffee",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/views/gallery-create.html",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/directives/validateEquals.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/directives/formfield.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/directives/fieldtypes.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/services/auth.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/services/users.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/services/business.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/services/booking.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/node_modules/ng-file-upload/dist/angular-file-upload-all.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/controllers/users.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/models/User.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/models/Business.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/server.js",
+		"/Users/Anastasiou/Development/Websites/NoPlan/NoPlan-BackEnd/public/controllers/booking.js",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 3/02_RecordAudio/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 3/03_PlayingAudio/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 3/04_CaptureVideo/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 3/05_ImageEffects/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 3/06_PhotoLibrary/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 5/01_PauseApplication/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 2/05_FileUpload/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 2/06_LocalStorage/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 2/04_SQLiteDB/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 2/03_DirectoryListing/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 2/02_ReadFile/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 2/01_SaveFile/www/index.html",
+		"/Users/Anastasiou/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 1/07_Compass/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 1/07_Compass/www/xui.js",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 1/06_MappingPosition/static_maps/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 1/06_MappingPosition/dynamic_maps/www/index.html",
+		"/Users/Anastasiou/Documents/Books/App Development/Phone Gap/Cookbook/Chapter 1/06_MappingPosition/dynamic_maps/www/cordova-2.0.0.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app-venue",
+			"html5",
+			"plugin",
+			"videocapture",
+			"window.plugins",
+			"url",
+			"# TODO",
+			"venue",
+			"$profile-band-height",
+			"venues",
+			"profile__image",
+			"icon-pound",
+			"icon_male",
+			".ratings",
+			"ratings",
+			"bubble",
+			"gender",
+			"men",
+			"video",
+			"vue cinema",
+			"amazon",
+			"s3amazon",
+			"gender",
+			"icon",
+			"angular.ratings",
+			"icon-pound",
+			"pound",
+			"poudn",
+			"icon-plus",
+			"icon_mal",
+			"icon-plus",
+			"icon_",
+			"icon",
+			"icon_",
+			"icon-tick",
+			"icon-voti",
+			"icon-",
+			"icon",
+			"icon-",
+			"icon",
+			"icon-",
+			"icon",
+			"stars",
+			".stars",
+			"icon-pound",
+			"pou",
+			"angular-ratings",
+			"new",
+			"id",
+			"index",
+			"id",
+			"stylesheet_link_tag",
+			"upload",
+			"watch",
+			"upload_im",
+			"gallery",
+			"save()",
+			"save",
+			"voice record",
+			"element",
+			"000",
+			"5,000",
+			"5000",
+			"destroyImage",
+			"pubnub",
+			"secret",
+			"ensureAuthent",
+			"ensureAuth",
+			"episodes",
+			"localhost",
+			"authentic",
+			"api/login",
+			"<li><a href=\"javascript:void(0)\" ng-click=\"logout()\">Logout</a></li>\n",
+			"reset-password",
+			"episodes",
+			"filter",
+			"detail",
+			"bodyparser",
+			"fromNow",
+			"_",
+			"lodash",
+			"load",
+			"photo",
+			"module",
+			"path",
+			"signup",
+			"field",
+			"instagramLogin",
+			"instagram",
+			"link",
+			"ng-view",
+			"feedbacks",
+			"#create",
+			"create",
+			"events",
+			"ratings",
+			"/deal",
+			"def create",
+			"create",
+			"@feedbacks",
+			"feedbacks",
+			"post",
+			"customPOST",
+			"feedbacks",
+			"create",
+			"icon-users",
+			"icon-",
+			"create-event-overlay",
+			"icon-users",
+			"page-view",
+			"page-view@app",
+			"          \"page-view@app\":\n",
+			"getUserData",
+			"check_checkins",
+			"check_checkins()",
+			"noloadrest",
+			"currentStateClass",
+			"loadApp",
+			"NumericCounter",
+			"NumericCounterNumericCounter",
+			"NumericCounter",
+			"IconName",
+			"AuthenticationData",
+			"ExternalAccountName",
+			"EmailAddress",
+			"email_address",
+			"KeywordScale",
+			"keyw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/controllers/add.js",
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
